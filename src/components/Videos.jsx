@@ -7,7 +7,7 @@ const Videos = ({ videos }) => {
             direction="row"
             flexWrap="wrap"
             justifyContent="start"
-            gap={2}
+            gap={1}
         >
             {videos.map((item, idx) => (
                 <Box key={idx}>

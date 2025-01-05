@@ -17,6 +17,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
   { name: 'TMKOC', icon: <OndemandVideoIcon />, },
+  { name: 'JavaScript', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -27,16 +28,14 @@ export const categories = [
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
   { name: 'Live', icon: <LiveTvIcon />, },
   { name: 'Sport', icon: <FitnessCenterIcon />, },
-  { name: 'Fashion', icon: <CheckroomIcon />, },
-  { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
 export const demoThumbnailUrl = 'https://github.githubassets.com/images/icons/emoji/octocat.png';
-export const demoChannelUrl = '/channel/UC76T2-lOThakES8Z_Lw3K7Q';
-export const demoVideoUrl = '/video/9hHm1AfLO0g';
+export const demoChannelUrl = '/footage/channel/UC76T2-lOThakES8Z_Lw3K7Q';
+export const demoVideoUrl = '/footage/video/9hHm1AfLO0g';
 export const demoChannelTitle = 'title_channel';
 export const demoVideoTitle = 'title_video';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
